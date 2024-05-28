@@ -5,7 +5,7 @@ I'm a Computer Science student at UFCG who's still working on his portfolio, whi
 <!-- Stats -->
 <div align="center" style="display: flex; justify-content: space-around;">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=paulorpn&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img width="10em"/>
+  <img width="5em"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=paulorpn&layout=compact&theme=react"/>
 </div>
 
